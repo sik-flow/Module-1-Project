@@ -24,7 +24,7 @@ Main questions to investigate:
 When entering the film industry, Microsoft should not be afraid to spend fair amounts of money during the production process. As the below graph shows, films that invest more in their movies are more likely to get generate higher amounts of revenue. This can also be attributed to the fact that movies with higher budgets usually will allocate some of this money towards advertising, and in turn more people will end coming to the movies to see it.
 
 
-<img src="Image 1.png"> 
+<img src="Pictures/Image 1.png"> 
 
 
 
